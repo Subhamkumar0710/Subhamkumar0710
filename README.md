@@ -1,20 +1,16 @@
 # 👋 Welcome to My GitHub Profile
 
 <div align="center">
+  <h2>Hi 👋 I'm <b>Subham Kumar</b></h2>
+  <p>🚀 Full-Stack Developer | Web Developer 💻 | Flask Enthusiast 🔥</p>
   
-# Hi 👋 I'm **Subham Kumar**
-
-### Full-Stack Developer 🚀 | Web Developer 💻 | Flask Enthusiast 🔥
-
-[GitHub](https://github.com/Subhamkumar0710) • [LinkedIn](https://linkedin.com/in/subhamkumar0710) • [Portfolio](https://github.com/Subhamkumar0710/portfolio)
-
+  [![GitHub followers](https://img.shields.io/github/followers/Subhamkumar0710?style=social)](https://github.com/Subhamkumar0710)
+  [![GitHub User's stars](https://img.shields.io/github/stars/Subhamkumar0710?style=social)](https://github.com/Subhamkumar0710)
 </div>
 
 ---
 
 ## 🎯 About Me
-
-I'm a passionate **full-stack web developer** dedicated to creating beautiful, functional web applications. With expertise in **HTML, CSS, JavaScript, and Python/Flask**, I love building projects that make an impact.
 
 ```python
 def about_me():
@@ -42,15 +38,17 @@ def about_me():
 
 ### **Languages & Frameworks**
 
-| HTML5 | CSS3 | JavaScript | Python | Flask |
-|:-----:|:----:|:----------:|:------:|:-----:|
-| 🏗️ | 🎨 | ⚡ | 🐍 | 🔥 |
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### **Developer Tools**
+### **Tools & Platforms**
 
-| Git | GitHub | VS Code | Figma |
-|:---:|:------:|:-------:|:-----:|
-| 📝 | 🐙 | 💻 | 🎭 |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -58,78 +56,72 @@ def about_me():
 
 ## 🚀 Featured Projects
 
-### 💼 **Portfolio**
+### 💼 [Portfolio](https://github.com/Subhamkumar0710/portfolio)
 **A beautiful personal portfolio website to showcase my skills and projects**
-- **Repository:** [github.com/Subhamkumar0710/portfolio](https://github.com/Subhamkumar0710/portfolio)
 - **Languages:** HTML | CSS | JavaScript
 - **Features:** Responsive Design | Smooth Animations | Project Showcase
 - **Last Updated:** July 2025
 
 ---
 
-### 🍔 **Restaurant Landing Page**
+### 🍔 [Restaurant Landing Page](https://github.com/Subhamkumar0710/Restaurant-Landing-Page)
 **Modern and responsive restaurant website with beautiful UI**
-- **Repository:** [github.com/Subhamkumar0710/Restaurant-Landing-Page](https://github.com/Subhamkumar0710/Restaurant-Landing-Page)
 - **Languages:** HTML | CSS
 - **Features:** Responsive Design | Menu Section | Reservation System | Contact Form
 - **Last Updated:** July 2025
 
 ---
 
-### 🛒 **E-commerce Website**
+### 🛒 [E-commerce Website](https://github.com/Subhamkumar0710/E-commerce-Website)
 **Fully functional e-commerce platform with product catalog**
-- **Repository:** [github.com/Subhamkumar0710/E-commerce-Website](https://github.com/Subhamkumar0710/E-commerce-Website)
 - **Languages:** HTML | CSS
-- **Features:** Product Catalog | Shopping Cart | Product Details | Responsive Layout
+- **Features:** Product Catalog | Shopping Cart | Product Details
 - **Last Updated:** July 2025
 
 ---
 
-### 🏫 **College Event Notice Portal**
+### 🏫 [College Event Notice Portal](https://github.com/Subhamkumar0710/College-Event---Notice-Portal)
 **Comprehensive portal for managing college events and notices**
-- **Repository:** [github.com/Subhamkumar0710/College-Event---Notice-Portal](https://github.com/Subhamkumar0710/College-Event---Notice-Portal)
 - **Languages:** HTML | CSS
 - **Features:** Event Management | Notice Board | User-Friendly Interface
 - **Last Updated:** September 2025
 
 ---
 
-### 🛍️ **Grocery App using Flask**
+### 🛍️ [Grocery App using Flask](https://github.com/Subhamkumar0710/Grocery-App-using-flask)
 **Flask-based grocery application with inventory management**
-- **Repository:** [github.com/Subhamkumar0710/Grocery-App-using-flask](https://github.com/Subhamkumar0710/Grocery-App-using-flask)
 - **Languages:** Python | Flask | HTML
-- **Features:** Product Ordering | Cart Management | Inventory System | Backend API
+- **Features:** Product Ordering | Cart Management | Inventory System
 - **Last Updated:** August 2025
 
 ---
 
-### 📦 **Quickdrop using Flask**
+### 📦 [Quickdrop using Flask](https://github.com/Subhamkumar0710/Quickdrop-using-flask)
 **Quick delivery service application built with Flask**
-- **Repository:** [github.com/Subhamkumar0710/Quickdrop-using-flask](https://github.com/Subhamkumar0710/Quickdrop-using-flask)
 - **Languages:** HTML | Flask | Python
 - **Features:** Order Management | Delivery Tracking | User Interface
 - **Last Updated:** August 2025
 
 ---
 
-## 📊 Repository Statistics
+## 📊 GitHub Statistics
 
-| Metric | Count |
-|--------|-------|
-| **Total Public Repositories** | 6+ |
-| **Total Followers** | Growing 📈 |
-| **Main Languages** | HTML, CSS, JavaScript, Python |
-| **Framework Focus** | Flask, Vanilla JavaScript |
-| **Average Project Size** | Medium to Large |
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhamkumar0710&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamkumar0710&layout=compact&theme=radical)
+
+</div>
 
 ---
 
 ## 🎓 Skills & Expertise
 
-| Category | Skills |
-|----------|--------|
-| **Frontend Development** | HTML5, CSS3, JavaScript, Responsive Design, UI/UX |
-| **Backend Development** | Python, Flask, Server-Side Development |
+| **Category** | **Skills** |
+|---|---|
+| **Frontend** | HTML5, CSS3, JavaScript, Responsive Design, UI/UX |
+| **Backend** | Python, Flask, Server-Side Development |
 | **Tools & Platforms** | Git, GitHub, VS Code, Command Line |
 | **Databases** | SQL, Database Design, Data Management |
 | **Other** | Web Performance, Version Control, Problem Solving |
@@ -140,7 +132,7 @@ def about_me():
 
 ```
 📚 Advanced JavaScript & React.js
-📚 Database Design & SQL Optimization  
+📚 Database Design & SQL Optimization
 📚 Web Performance & Optimization Techniques
 📚 REST API Development
 📚 Cloud Deployment (AWS, Heroku)
@@ -151,15 +143,13 @@ def about_me():
 
 ## 💡 Fun Facts About Me
 
-| Fact | Description |
-|------|-------------|
-| 🎮 | I enjoy solving coding challenges and building innovative projects |
-| 🌍 | Passionate about creating impactful web applications that solve real problems |
-| 📖 | Always reading about new tech trends and industry best practices |
-| ☕ | Coffee enthusiast - my fuel for those long coding sessions! |
-| 🚀 | Excited about exploring AI, Machine Learning, and emerging technologies |
-| 🎨 | Love designing intuitive user interfaces that users enjoy |
-| 🤝 | Open to collaboration and knowledge sharing |
+- 🎮 I enjoy solving coding challenges and building innovative projects
+- 🌍 Passionate about creating impactful web applications that solve real problems
+- 📖 Always reading about new tech trends and industry best practices
+- ☕ Coffee enthusiast - my fuel for those long coding sessions!
+- 🚀 Excited about exploring AI, Machine Learning, and emerging technologies
+- 🎨 Love designing intuitive user interfaces that users enjoy
+- 🤝 Open to collaboration and knowledge sharing
 
 ---
 
@@ -167,17 +157,10 @@ def about_me():
 
 <div align="center">
 
-**Find me on:**
-
-🐙 **GitHub:** [Subhamkumar0710](https://github.com/Subhamkumar0710)
-
-💼 **LinkedIn:** [subhamkumar0710](https://linkedin.com/in/subhamkumar0710)
-
-✉️ **Email:** [subhamkumar0710@gmail.com](mailto:subhamkumar0710@gmail.com)
-
-🌐 **Portfolio:** [Portfolio Project](https://github.com/Subhamkumar0710/portfolio)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Subhamkumar0710)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhamkumar0710)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamkumar0710@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox)](https://github.com/Subhamkumar0710/portfolio)
 
 **Feel free to reach out for:**
 - 🤝 Collaboration opportunities
@@ -223,8 +206,6 @@ I'm actively building projects and contributing to the developer community:
 
 > *"Every expert was once a beginner."* — Unknown
 
-> *"Code is poetry written for computers."* — Unknown
-
 ---
 
 ## 🎨 Profile Summary
@@ -258,9 +239,7 @@ while (True):
 
 **Made with ❤️ and lots of ☕ by Subham Kumar**
 
----
-
-### ⭐ If you like my work, please consider giving a star! ⭐
+⭐ **If you like my work, consider giving a star!** ⭐
 
 </div>
 
@@ -268,6 +247,6 @@ while (True):
 
 <div align="center">
 
-**Last Updated:** May 31, 2026 | **Profile Version:** 2.0
+**Last Updated:** May 31, 2026
 
 </div>

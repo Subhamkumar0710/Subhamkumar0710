@@ -104,15 +104,67 @@ def about_me():
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Analytics
 
-<div align="center">
+### Repository Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhamkumar0710&show_icons=true&theme=radical)
+| Project | Language | Type | Size | Last Updated |
+|---------|----------|------|------|--------------|
+| Portfolio | JavaScript | Personal | 30.9 KB | July 2025 |
+| Restaurant Landing Page | HTML/CSS | Web | 25.1 KB | July 2025 |
+| E-commerce Website | HTML/CSS | Web | 6.3 KB | July 2025 |
+| College Event Portal | HTML/CSS | Web | 13.4 KB | Sept 2025 |
+| Grocery App (Flask) | Python/Flask | Web App | 1.7 KB | Aug 2025 |
+| Quickdrop (Flask) | Flask/Python | Web App | 0.012 KB | Aug 2025 |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamkumar0710&layout=compact&theme=radical)
+---
 
-</div>
+### Programming Languages Distribution
+
+```
+HTML        ████████████████░░ 50%
+CSS         █████████░░░░░░░░░ 25%
+JavaScript  ███████░░░░░░░░░░░ 15%
+Python      ███░░░░░░░░░░░░░░░ 10%
+```
+
+---
+
+### Project Statistics Table
+
+| Metric | Count | Status |
+|--------|-------|--------|
+| **Total Public Repositories** | 6 | ✅ Active |
+| **Total Commits** | 50+ | 📈 Growing |
+| **Total Followers** | Growing | ⬆️ Increasing |
+| **Average Project Size** | ~13 KB | 📦 Medium |
+| **Most Used Language** | HTML | 🏆 Primary |
+| **Latest Project** | College Event Portal | 🆕 Recent |
+
+---
+
+### Skills Proficiency Chart
+
+```
+HTML/CSS          ████████████████░░ 90%
+JavaScript        ███████████░░░░░░░ 70%
+Python/Flask      ██████████░░░░░░░░ 65%
+Web Design        █████████░░░░░░░░░ 60%
+Full-Stack Dev    ████████░░░░░░░░░░ 55%
+Database Design   ███████░░░░░░░░░░░ 50%
+```
+
+---
+
+### Technology Stack Breakdown
+
+| Category | Technologies | Proficiency |
+|----------|--------------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript | ⭐⭐⭐⭐⭐ |
+| **Backend** | Python, Flask | ⭐⭐⭐⭐ |
+| **Tools** | Git, GitHub, VS Code | ⭐⭐⭐⭐⭐ |
+| **Design** | UI/UX, Responsive Design | ⭐⭐⭐⭐ |
+| **Databases** | SQL, Data Management | ⭐⭐⭐ |
 
 ---
 
@@ -125,6 +177,19 @@ def about_me():
 | **Tools & Platforms** | Git, GitHub, VS Code, Command Line |
 | **Databases** | SQL, Database Design, Data Management |
 | **Other** | Web Performance, Version Control, Problem Solving |
+
+---
+
+### Learning Progress
+
+```
+React.js Development        ████░░░░░░░░░░░░░░░░ 20%
+Advanced JavaScript         ███████░░░░░░░░░░░░░ 35%
+Database Design             ██████░░░░░░░░░░░░░░ 30%
+Web Performance             █████░░░░░░░░░░░░░░░ 25%
+REST API Development        ████░░░░░░░░░░░░░░░░ 20%
+Cloud Deployment            ███░░░░░░░░░░░░░░░░░ 15%
+```
 
 ---
 

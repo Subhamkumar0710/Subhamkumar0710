@@ -1,23 +1,20 @@
 # 👋 Welcome to My GitHub Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=900&height=70&lines=Hi+👋+I'm+Subham+Kumar;Full-Stack+Developer+🚀;Web+Developer+💻;Flask+Enthusiast+🔥" alt="Typing SVG" />
-</div>
+  
+# Hi 👋 I'm **Subham Kumar**
 
-<div align="center">
-  <p>
-    <a href="https://github.com/Subhamkumar0710">
-      <img src="https://img.shields.io/github/followers/Subhamkumar0710?style=social&label=Follow&maxAge=2592000" alt="GitHub followers" />
-    </a>
-    <a href="https://github.com/Subhamkumar0710?tab=repositories">
-      <img src="https://img.shields.io/github/repos/Subhamkumar0710?style=social&label=Repositories&maxAge=2592000" alt="GitHub repositories" />
-    </a>
-  </p>
+### Full-Stack Developer 🚀 | Web Developer 💻 | Flask Enthusiast 🔥
+
+[GitHub](https://github.com/Subhamkumar0710) • [LinkedIn](https://linkedin.com/in/subhamkumar0710) • [Portfolio](https://github.com/Subhamkumar0710/portfolio)
+
 </div>
 
 ---
 
 ## 🎯 About Me
+
+I'm a passionate **full-stack web developer** dedicated to creating beautiful, functional web applications. With expertise in **HTML, CSS, JavaScript, and Python/Flask**, I love building projects that make an impact.
 
 ```python
 def about_me():
@@ -25,12 +22,12 @@ def about_me():
         "name": "Subham Kumar",
         "passion": "Building amazing web applications 💻",
         "interests": ["Web Development", "Full-Stack Development", "UI/UX Design"],
-        "learning": ["React.js", "Advanced JavaScript", "Database Design", "Cloud Deployment"],
+        "learning": ["React.js", "Advanced JavaScript", "Database Design"],
         "open_to": "Collaborating on exciting projects 🤝"
     }
 ```
 
-💡 **What drives me:**
+**What drives me:**
 - 🚀 Creating impactful web solutions
 - 🎨 Designing beautiful and functional user interfaces
 - 📚 Continuously learning new technologies
@@ -45,18 +42,15 @@ def about_me():
 
 ### **Languages & Frameworks**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+| HTML5 | CSS3 | JavaScript | Python | Flask |
+|:-----:|:----:|:----------:|:------:|:-----:|
+| 🏗️ | 🎨 | ⚡ | 🐍 | 🔥 |
 
-### **Tools & Platforms**
+### **Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Git | GitHub | VS Code | Figma |
+|:---:|:------:|:-------:|:-----:|
+| 📝 | 🐙 | 💻 | 🎭 |
 
 </div>
 
@@ -64,99 +58,81 @@ def about_me():
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 💼 [Portfolio](https://github.com/Subhamkumar0710/portfolio)
+### 💼 **Portfolio**
 **A beautiful personal portfolio website to showcase my skills and projects**
-```
-Languages: HTML | CSS | JavaScript
-Features: Responsive Design | Smooth Animations | Project Showcase
-⭐ Stars: 0 | 📅 Last Updated: July 2025
-```
+- **Repository:** [github.com/Subhamkumar0710/portfolio](https://github.com/Subhamkumar0710/portfolio)
+- **Languages:** HTML | CSS | JavaScript
+- **Features:** Responsive Design | Smooth Animations | Project Showcase
+- **Last Updated:** July 2025
 
 ---
 
-### 🍔 [Restaurant Landing Page](https://github.com/Subhamkumar0710/Restaurant-Landing-Page)
+### 🍔 **Restaurant Landing Page**
 **Modern and responsive restaurant website with beautiful UI**
-```
-Languages: HTML | CSS
-Features: Responsive Design | Menu Section | Reservation System | Contact Form
-⭐ Last Updated: July 2025
-```
+- **Repository:** [github.com/Subhamkumar0710/Restaurant-Landing-Page](https://github.com/Subhamkumar0710/Restaurant-Landing-Page)
+- **Languages:** HTML | CSS
+- **Features:** Responsive Design | Menu Section | Reservation System | Contact Form
+- **Last Updated:** July 2025
 
 ---
 
-### 🛒 [E-commerce Website](https://github.com/Subhamkumar0710/E-commerce-Website)
+### 🛒 **E-commerce Website**
 **Fully functional e-commerce platform with product catalog**
-```
-Languages: HTML | CSS
-Features: Product Catalog | Shopping Cart | Product Details | Responsive Layout
-⭐ Last Updated: July 2025
-```
+- **Repository:** [github.com/Subhamkumar0710/E-commerce-Website](https://github.com/Subhamkumar0710/E-commerce-Website)
+- **Languages:** HTML | CSS
+- **Features:** Product Catalog | Shopping Cart | Product Details | Responsive Layout
+- **Last Updated:** July 2025
 
 ---
 
-### 🏫 [College Event Notice Portal](https://github.com/Subhamkumar0710/College-Event---Notice-Portal)
+### 🏫 **College Event Notice Portal**
 **Comprehensive portal for managing college events and notices**
-```
-Languages: HTML | CSS
-Features: Event Management | Notice Board | User-Friendly Interface | Event Calendar
-⭐ Last Updated: September 2025
-```
+- **Repository:** [github.com/Subhamkumar0710/College-Event---Notice-Portal](https://github.com/Subhamkumar0710/College-Event---Notice-Portal)
+- **Languages:** HTML | CSS
+- **Features:** Event Management | Notice Board | User-Friendly Interface
+- **Last Updated:** September 2025
 
 ---
 
-### 🛍️ [Grocery App using Flask](https://github.com/Subhamkumar0710/Grocery-App-using-flask)
+### 🛍️ **Grocery App using Flask**
 **Flask-based grocery application with inventory management**
-```
-Languages: Python | Flask | HTML
-Features: Product Ordering | Cart Management | Inventory System | Flask Backend
-📚 Description: Complete grocery app with backend functionality
-⭐ Last Updated: August 2025
-```
+- **Repository:** [github.com/Subhamkumar0710/Grocery-App-using-flask](https://github.com/Subhamkumar0710/Grocery-App-using-flask)
+- **Languages:** Python | Flask | HTML
+- **Features:** Product Ordering | Cart Management | Inventory System | Backend API
+- **Last Updated:** August 2025
 
 ---
 
-### 📦 [Quickdrop using Flask](https://github.com/Subhamkumar0710/Quickdrop-using-flask)
+### 📦 **Quickdrop using Flask**
 **Quick delivery service application built with Flask**
-```
-Languages: HTML | Flask | Python
-Features: Order Management | Delivery Tracking | User Interface
-🚀 Fast & Efficient Delivery Management
-⭐ Last Updated: August 2025
-```
-
-</div>
+- **Repository:** [github.com/Subhamkumar0710/Quickdrop-using-flask](https://github.com/Subhamkumar0710/Quickdrop-using-flask)
+- **Languages:** HTML | Flask | Python
+- **Features:** Order Management | Delivery Tracking | User Interface
+- **Last Updated:** August 2025
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Repository Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhamkumar0710&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6b9d&icon_color=ff6b9d&text_color=c9cacc&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamkumar0710&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6b9d&text_color=c9cacc&border_color=30363d)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Subhamkumar0710&theme=radical&background=0d1117&border=30363d&dates=c9cacc)
-
-</div>
+| Metric | Count |
+|--------|-------|
+| **Total Public Repositories** | 6+ |
+| **Total Followers** | Growing 📈 |
+| **Main Languages** | HTML, CSS, JavaScript, Python |
+| **Framework Focus** | Flask, Vanilla JavaScript |
+| **Average Project Size** | Medium to Large |
 
 ---
 
 ## 🎓 Skills & Expertise
 
-<div align="center">
-
-| **Category** | **Skills** |
-|---|---|
-| **Frontend** | HTML5, CSS3, JavaScript, Responsive Design, UI/UX |
-| **Backend** | Python, Flask, Server-Side Development |
+| Category | Skills |
+|----------|--------|
+| **Frontend Development** | HTML5, CSS3, JavaScript, Responsive Design, UI/UX |
+| **Backend Development** | Python, Flask, Server-Side Development |
 | **Tools & Platforms** | Git, GitHub, VS Code, Command Line |
 | **Databases** | SQL, Database Design, Data Management |
 | **Other** | Web Performance, Version Control, Problem Solving |
-
-</div>
 
 ---
 
@@ -164,7 +140,7 @@ Features: Order Management | Delivery Tracking | User Interface
 
 ```
 📚 Advanced JavaScript & React.js
-📚 Database Design & SQL Optimization
+📚 Database Design & SQL Optimization  
 📚 Web Performance & Optimization Techniques
 📚 REST API Development
 📚 Cloud Deployment (AWS, Heroku)
@@ -173,15 +149,17 @@ Features: Order Management | Delivery Tracking | User Interface
 
 ---
 
-## 💡 Interesting Facts About Me
+## 💡 Fun Facts About Me
 
-- 🎮 I enjoy solving coding challenges and building innovative projects
-- 🌍 Passionate about creating impactful web applications that solve real problems
-- 📖 Always reading about new tech trends and industry best practices
-- ☕ Coffee enthusiast - my fuel for those long coding sessions!
-- 🚀 Excited about exploring AI, Machine Learning, and emerging technologies
-- 🎨 Love designing intuitive user interfaces that users enjoy
-- 🤝 Open to collaboration and knowledge sharing
+| Fact | Description |
+|------|-------------|
+| 🎮 | I enjoy solving coding challenges and building innovative projects |
+| 🌍 | Passionate about creating impactful web applications that solve real problems |
+| 📖 | Always reading about new tech trends and industry best practices |
+| ☕ | Coffee enthusiast - my fuel for those long coding sessions! |
+| 🚀 | Excited about exploring AI, Machine Learning, and emerging technologies |
+| 🎨 | Love designing intuitive user interfaces that users enjoy |
+| 🤝 | Open to collaboration and knowledge sharing |
 
 ---
 
@@ -189,10 +167,17 @@ Features: Order Management | Delivery Tracking | User Interface
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Subhamkumar0710)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhamkumar0710)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhamkumar0710@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox)](https://github.com/Subhamkumar0710/portfolio)
+**Find me on:**
+
+🐙 **GitHub:** [Subhamkumar0710](https://github.com/Subhamkumar0710)
+
+💼 **LinkedIn:** [subhamkumar0710](https://linkedin.com/in/subhamkumar0710)
+
+✉️ **Email:** [subhamkumar0710@gmail.com](mailto:subhamkumar0710@gmail.com)
+
+🌐 **Portfolio:** [Portfolio Project](https://github.com/Subhamkumar0710/portfolio)
+
+---
 
 **Feel free to reach out for:**
 - 🤝 Collaboration opportunities
@@ -208,12 +193,14 @@ Features: Order Management | Delivery Tracking | User Interface
 
 ```
 2025-2026 Goals:
+
 ✅ Build 10+ full-stack projects
 ✅ Learn React.js & Advanced JavaScript
 ✅ Contribute to open-source projects
 ✅ Improve UI/UX design skills
 ✅ Deploy projects to production
 ✅ Build a strong professional network
+✅ Create tutorials and share knowledge
 ```
 
 ---
@@ -230,9 +217,17 @@ I'm actively building projects and contributing to the developer community:
 
 ---
 
-## 🎨 Profile Highlights
+## 🏆 Inspiring Quotes
 
-<div align="center">
+> *"The only way to do great work is to love what you do."* — Steve Jobs
+
+> *"Every expert was once a beginner."* — Unknown
+
+> *"Code is poetry written for computers."* — Unknown
+
+---
+
+## 🎨 Profile Summary
 
 ```
 ╔════════════════════════════════════════════════╗
@@ -243,19 +238,9 @@ I'm actively building projects and contributing to the developer community:
 ║  Frameworks: Flask                            ║
 ║  Focus: Full-Stack Web Development            ║
 ║                                                ║
-║  "Code is poetry written for machines" 💻    ║
+║  "Building the future, one line at a time"   ║
 ╚════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-## 🏆 A Quote That Inspires Me
-
-> *"The only way to do great work is to love what you do."* — Steve Jobs
-
-> *"Every expert was once a beginner."* — Unknown
 
 ---
 
@@ -269,17 +254,20 @@ while (True):
     learn_something_new()
     collaborate_and_create()
     have_fun_coding()
-    repeat()
 ```
 
 **Made with ❤️ and lots of ☕ by Subham Kumar**
 
-[![Star](https://img.shields.io/badge/⭐-If%20you%20like%20my%20work%2C%20give%20a%20star!-yellow?style=for-the-badge)](https://github.com/Subhamkumar0710?tab=repositories)
+---
+
+### ⭐ If you like my work, please consider giving a star! ⭐
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhamkumar0710&color=ff6b9d" alt="Profile Views" />
-</div>
+
+**Last Updated:** May 31, 2026 | **Profile Version:** 2.0
 
 </div>
